@@ -1,1 +1,1 @@
-net use z: \\stor636404909506998389.file.core.windows.net\other XrqkmQVnZn1NjbzXGIssSfU4UnhAqK85bCQDfNO2oKCkzVYP12zcUh8ucaxhlSsHMOensBpc82fnHuMaSWiTHg== /user:Azure\stor636404909506998389
+net use p: \\stor636404909669542276.file.core.windows.net\videos /u:AZURE\stor636404909669542276 5bmtpLDVKV98fqM7zM44LaaPeyWLQb/eY6wnTDAA8GQmShY/KXdxqkf/3gOzOwYESskDLSFJ5nPPaS6O0ysYsg==
