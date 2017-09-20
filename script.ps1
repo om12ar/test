@@ -6,4 +6,9 @@ $dest=$args[1]
 $sourceKey=$args[2]
 $pattern=$args[3]
 
+$source
+$dest
+$sourceKey
+$pattern
+
 .\AzCopy.exe  /Source:$source /Dest:$dest  /SourceKey:$sourceKey  /Pattern:$pattern
